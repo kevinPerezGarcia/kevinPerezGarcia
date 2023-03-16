@@ -18,8 +18,8 @@
 
 ## Software
 ### advanced:
-* Stata
+* Stata, Overleaf/LaTeX
 ### intermediate:
 * Git, GitFlow
 ### Basic:
-* LaTex, R, Mathematica, Overleaf
+* R, Mathematica, Tableau
