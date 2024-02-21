@@ -3,7 +3,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Kevin Pérez García</h1>
-    <h3 align="center">A passionate data scientist (from [UNI](https://portal.uni.edu.pe/)) and economist (from [UNSAAC](https://www.unsaac.edu.pe/)) from Peru.</h3>
+    <h3 align="center">A passionate ![]() data scientist (Universidad Nacional de Ingeniería) and economist (Universidad Nacional San Antonio Abad del Cusco) from Peru.</h3>
 </div>
 
 
