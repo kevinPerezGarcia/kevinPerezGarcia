@@ -3,7 +3,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Kevin Pérez García</h1>
-    <h3 align="center">A passionate economist from Perú. Bachelor in economics at UNSAAC university.</h3>
+    <h3 align="center">A passionate data scientist (from [UNI](https://portal.uni.edu.pe/) and economist (from [UNSAAC](https://www.unsaac.edu.pe/)) from Peru.</h3>
 </div>
 
 
@@ -18,9 +18,9 @@
 
 ### 👨‍💻 About Me :
 
-- 💬 Ask me about **Stata, R, LaTeX, Overleaf, Git, GitHub**
+- 💬 Ask me about **Git, GitHub, Python, R, Stata, LaTeX, Overleaf**
 
-- 🌱 I’m currently learning **Functional programming in R and Tableau**
+- 🌱 I’m currently learning **Supervised and Unsupervised Machine Learning, Forecasting, and Deep Learning**
 
 - 🌐 Website [quartopub.com](https://quartopub.com/)
 
@@ -34,6 +34,7 @@
     <h3>🔨 Languages and Tools:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="R" **alt="R" width="40" height="40"/>
       </div>
 </div>
