@@ -1,5 +1,8 @@
 ![Logo](https://github.com/kevinPerezGarcia/kevinPerezGarcia/blob/main/logo.png)
 
+¿Qué tienen en común los científicos de datos y los directores de zoológicos?<br>
+Ambos importan pandas. 🐝
+
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Kevin Pérez García</h1>
@@ -41,8 +44,12 @@
 
 ---
 
-### 📊 My Stats :
+### 📊 My GitHub Stats :
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinPerezGarcia&show_icons=true&theme=radical)
+![](https://activity-graph.herokuapp.com/graph?username=kevinPerezGarcia&theme=react-dark&hide_border=true&area=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinPerezGarcia&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinPerezGarcia">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kevinPerezGarcia&count_private=true&show_icons=true&theme=light" alt="Vaibhav's github stats"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinPerezGarcia&layout=compact&theme=light"/>
