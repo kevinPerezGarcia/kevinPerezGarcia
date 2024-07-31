@@ -19,18 +19,17 @@ Ambos importan pandas. 🐝
 
 
 
-### 👨‍💻 About Me :
+### Sobre mí:
 
-- 💬 Ask me about **Git, GitHub, Python, R, Stata, LaTeX, Overleaf**
+- 💬 Consúltame sobre **Git, GitHub, GitFlow Python, MLFlow, R, Stata, Quarto, LaTeX, Overleaf**
 
-- 🌱 I’m currently learning **Supervised and Unsupervised Machine Learning, Forecasting, and Deep Learning**
+- 🌱 Yo actualmente estoy aprendiendo sobre **MLOps**
 
-- 🌐 Website [quartopub.com](https://quartopub.com/)
+- 👨‍💻 Contáctame en mi [tarjeta de presentación](https://kevinperezgarcia.my.canva.site/tarjeta-presentacion)
 
-- 📝 I regularly upload videos on [https://www.youtube.com/kevinPerezGarcia](https://www.youtube.com/@kevoperezgarcia1700)
+- 📝 Conóce más sobre mí en [LinkedIn](https://www.linkedin.com/in/kevinperezgarcia/).
 
-- 📫 How to reach me **econ.perez.garcia.k@gmail.com**
-
+- 🌐 Comparto cosas interesantes en mi [portafolio](https://kevinperezgarcia.quarto.pub/data-science-portfolio/).
 ---
 
 <div align="left">
